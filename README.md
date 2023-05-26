@@ -1,5 +1,5 @@
-https://manasvi-crown-hats.netlify.app/
-https://lobster-app-rpsmk.ondigitalocean.app/
+https://manasvi-crown-hats.netlify.app/ (deployed manually after first commit)
+https://lobster-app-rpsmk.ondigitalocean.app/ (deployed continuously)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
